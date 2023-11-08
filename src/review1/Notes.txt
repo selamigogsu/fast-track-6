@@ -1,0 +1,53 @@
+Fast Track 6
+Nov 8th, 2023
+Java Review 1
+
+------------------------------------------------------------------------
+
+Code: all the code is available on the LMS. You can download each day as a separate folder. You can then open the folders in intelliJ. I will also share the whole project folder
+
+Week 2: As soon as we are done today I will publish days 4, 5, & 6
+
+support@cydeo.com
+market@cydeo.com
+
+Community Edition of IntelliJ is fine to use. We don't need any of the extra features
+
+Our focus is on reviewing the concepts. We don't have enough time to improve problem solving skills. Practice on codingbat, Hackerrank, Leetcode
+
+------------------------------------------------------------------------
+
+Days 1, 2, 3:
+
+Java Day 01 - Core Java
+
+	Java, Datatypes, Primitive TypeCasting, Variables, Operators, Conditional Statements, Loops, String
+
+Java Day 02 - Methods & Arrays
+
+	Methods, Return type, Method Overloading, Pass by value, Method chaining, Main method
+	Array, Arrays class, For each loop, Var Args, Array vs ArrayList
+
+Java Day 03 - Classes, Objects, Inheritance, Exceptions
+
+	Classes & Objects, Instance & Static, Constructors, Inheritance this, super, final, throw, throws, Method Overriding, Exceptions
+
+------------------------------------------------------------------------ 1: 40 est
+
+has a
+    describes the relationship between classes without inheritance. When a class is referenced from another class
+
+var args
+    allows you to declare a method with an array parameter, but the ... syntax allows you to pass the elements directly into the method
+
+instance vs static
+
+parameter vs argument
+
+throw vs throws
+handling exceptions
+
+
+
+
+
